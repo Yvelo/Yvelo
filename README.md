@@ -1,1 +1,1 @@
-Hi, I’m @Yvelo and I’m interested in open source software quality metrics.
+I’m passionate about code and how it is actively reinvented by developpers and AI agents around the world.
